@@ -1,0 +1,5 @@
+CustomAlertDialog(
+                          title: "Successfully registered",
+                          content: "Thank you for registering the form",
+                          onPressed: () {},
+                        ),

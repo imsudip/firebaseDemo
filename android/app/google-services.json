@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "36639558955",
+    "firebase_url": "https://student-registration-7aa51.firebaseio.com",
+    "project_id": "student-registration-7aa51",
+    "storage_bucket": "student-registration-7aa51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36639558955:android:8f61cc96be47f7cbe7896e",
+        "android_client_info": {
+          "package_name": "com.sgstudio.studentregistration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36639558955-4l474bs4ipev3uo8t6vljctmdogjp2pf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc6DgfAIzAsrLvVLm4HsNswQ3JGXoUNVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36639558955-4l474bs4ipev3uo8t6vljctmdogjp2pf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
